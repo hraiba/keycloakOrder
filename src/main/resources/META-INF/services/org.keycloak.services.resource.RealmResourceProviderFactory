@@ -1,1 +1,2 @@
-com.af.keycloak.orderby.OrderByResourceProviderFactory
+com.af.keycloak.orderby.UserOrderByFilterProviderSpi
+com.af.keycloak.orderby.UserOrderByFilterProviderFactory

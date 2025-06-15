@@ -90,6 +90,13 @@
             <version>3.5.3.Final</version>
             <scope>provided</scope>
         </dependency>
+
+        <dependency>
+                <groupId>org.jboss.resteasy</groupId>
+                <artifactId>resteasy-core</artifactId>
+                <version>6.2.4.Final</version>
+                <scope>provided</scope>
+        </dependency>
     </dependencies>
 
     <build>
