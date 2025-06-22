@@ -97,7 +97,7 @@ public class UserOrderByFilter implements ContainerRequestFilter, ContainerRespo
         
         // Define allowed fields for ordering
         Set<String> allowedFields = Set.of(
-            "username", "firstName", "lastName", "email", 
+            "username", "firstname", "lastname", "email", 
             "createdTimestamp", "enabled"
         );
         
